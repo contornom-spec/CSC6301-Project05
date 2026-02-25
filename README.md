@@ -11,7 +11,7 @@ This demonstrates proper maintenance-based enhancement without altering existing
 
 ---
 
-## 🏗 Design Approach
+##  Design Approach
 
 The system uses:
 
@@ -34,14 +34,14 @@ A new class `WhatsAppService` was created that implements the existing `Notifica
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Java JDK 8 or higher
 - IDE or command line
 
 ---
 
-## ▶ How to Compile and Run
+## How to Compile and Run
 
 ### Using Command Line:
 
