@@ -1,7 +1,7 @@
-# CSC6301 – Project 05  
-## Flexible Notification System – Maintenance Enhancement
+CSC6301 – Project 05  
+Flexible Notification System – Maintenance Enhancement
 
-### Project Overview
+Project Overview
 This project extends the existing Flexible Notification System by adding WhatsApp support.
 
  Constraint: The core `AlertSystem` class and the `NotificationMedium` interface were NOT modified.  
@@ -11,7 +11,7 @@ This demonstrates proper maintenance-based enhancement without altering existing
 
 ---
 
-##  Design Approach
+Design Approach
 
 The system uses:
 
@@ -24,7 +24,7 @@ A new class `WhatsAppService` was created that implements the existing `Notifica
 
 ---
 
-## Features
+Features
 
 - Email notifications
 - SMS notifications
@@ -34,16 +34,16 @@ A new class `WhatsAppService` was created that implements the existing `Notifica
 
 ---
 
-## Requirements
+Requirements
 
 - Java JDK 8 or higher
 - IDE or command line
 
 ---
 
-## How to Compile and Run
+How to Compile and Run
 
-### Using Command Line:
+Using Command Line:
 
 1. Navigate to project root directory
 2. Compile all files:
